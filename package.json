@@ -1,0 +1,11 @@
+{
+	"name": "created-stratum-example-minimal-source-and-license",
+	"description": "Example repository created from create-stratum-example-minimal. 💕",
+	"version": "0.0.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bingo-examples/created-stratum-example-minimal-source-and-license.git"
+	},
+	"main": "src/index.js",
+	"type": "module"
+}
